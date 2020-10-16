@@ -14,6 +14,11 @@ class Dog
 
   def breed
     @breed
-  end 
+  end
+
+end
+
+class Person
+
 
 end
